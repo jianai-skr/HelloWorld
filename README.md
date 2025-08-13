@@ -1,2 +1,2 @@
 # HelloWorld
-A repository to study git
+A repository to study git(dev)
